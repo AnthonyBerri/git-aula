@@ -2,10 +2,11 @@ programa
 {
 	inclua biblioteca Matematica --> M
 	inclua biblioteca Texto --> T
-	inclua biblioteca Util --> U
+	inclua biblioteca Util --> U
 
 	
-	const inteiro total = 25
+	
+const inteiro total = 25
 
 	real Rporcentagem, porcentagempfazer, arrumado_porcentagem, pfazer_porcentagem
 	cadeia enter, busca
